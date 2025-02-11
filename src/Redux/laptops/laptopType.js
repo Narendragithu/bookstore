@@ -1,0 +1,1 @@
+export var BUY_LAPTOP = 'BUY_LAPTOP';
